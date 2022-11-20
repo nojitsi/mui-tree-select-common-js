@@ -7,15 +7,17 @@
     "mui",
     "tree",
     "select",
-    "multi-select"
+    "multi-select",
+    "commonjs",
+    "remix",
+    "remixjs"
   ],
-  "homepage": "https://mikepricedev.github.io/mui-tree-select",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mikepricedev/mui-tree-select.git"
+    "url": "https://github.com/nojitsi/mui-tree-select-common-js.git"
   },
   "license": "MIT",
-  "author": "Michael Price <mikepricedev@gmail.com>",
+  "author": "Author Michael Price / Fork maitainer Yehor ILiushchenko buaueru@gmail.com",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
