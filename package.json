@@ -1,6 +1,6 @@
 {
   "name": "mui-tree-select-common-js",
-  "version": "1.0.0-beta.9",
+  "version": "1.0.0-beta.9.0.1",
   "description": "CommonJs. Material-UI auto select component for tree data structures.",
   "keywords": [
     "material",
