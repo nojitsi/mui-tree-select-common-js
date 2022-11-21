@@ -1,12 +1,12 @@
 {
-  "name": "mui-tree-select-example",
+  "name": "mui-tree-select-common-js-example",
   "description": "MUI Tree Select Example",
   "dependencies": {
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
     "@mui/icons-material": "^5.0.0",
     "@mui/material": "^5.0.0",
-    "mui-tree-select": "1.0.0-beta.9",
+    "mui-tree-select": "1.0.0-beta.9.0.1",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
